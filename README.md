@@ -2,13 +2,13 @@
 
 ### Cross Domain Motion Transfer
 
-
-
-![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif)
-
-
+![CDMT](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/Cross_Domain_Motion_Transfer.png)
 
 --------------------------------------------------------------------------------------------
+
+![pipeline](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/pipeline.png)
+
+-------------------
 
 
 
