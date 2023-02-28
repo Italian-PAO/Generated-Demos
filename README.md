@@ -6,13 +6,13 @@
 
 --------------------------------------------------------------------------------------------
 
-#### pipeline
+### Pipeline
 ![pipeline](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/pipeline.png)
 
 
 -------------------
 
-
+### Demos
 |   source image   |   driving video   |   Ours   |   FOMM   |
 
 ![human_body_Fig_5_1](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/human_body_Fig_5_1.gif)
@@ -29,12 +29,12 @@
 
 ### Motion Transfer in E-Commerce Scenario
 
-#### pipeline
+### Pipeline
 ![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif)
 
 
 -------------------------------
 
-
+### Demos
 ![E-Commerce](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/E-Commerce.gif)
 
