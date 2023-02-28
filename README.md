@@ -2,6 +2,16 @@
 
 ### Cross Domain Motion Transfer
 
+
+
+![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif)
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+
 |   source image   |   driving video   |   Ours   |   FOMM   |
 
 ![human_body_Fig_5_1](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/human_body_Fig_5_1.gif)
@@ -14,6 +24,13 @@
 
 ### Motion Transfer in E-Commerce Scenario
 
+![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif)
+
+
+
+-------------------------------
+
+
+
 ![E-Commerce](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/E-Commerce.gif)
 
-<!-- ![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif) -->
