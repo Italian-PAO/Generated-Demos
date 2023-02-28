@@ -1,15 +1,16 @@
 # Generated-Demos
 
 ### Cross Domain Motion Transfer
-
 ![CDMT](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/Cross_Domain_Motion_Transfer.png)
+
 
 --------------------------------------------------------------------------------------------
 
+#### pipeline
 ![pipeline](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/pipeline.png)
 
--------------------
 
+-------------------
 
 
 |   source image   |   driving video   |   Ours   |   FOMM   |
@@ -22,14 +23,17 @@
 
 ![human_face_Fig_6_2](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/human_face_Fig_6_2.gif)
 
+
+-------------------
+
+
 ### Motion Transfer in E-Commerce Scenario
 
+#### pipeline
 ![System](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/System.gif)
 
 
-
 -------------------------------
-
 
 
 ![E-Commerce](https://github.com/Italian-PAO/Generated-Demos/blob/main/resources/E-Commerce.gif)
